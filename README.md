@@ -54,4 +54,5 @@
 - 프로그래밍 언어: C  
 - 네트워크 라이브러리: sys/socket.h, netinet/in.h  
 - 파일 입출력: fcntl.h, 파일 잠금 기능을 사용하여 데이터의 동시 접근을 관리합니다.  
-- 개발 환경: Linux (Ubuntu), Oracle VM VirtualBox, Visual Studio Code  
+- 개발 환경: Linux (Ubuntu), Oracle VM VirtualBox, Visual Studio Code
+- 
